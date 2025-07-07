@@ -23,7 +23,7 @@ const products: Product[] = [
     id: 1,
     name: "KLOW",
     description: "Powerful peptide blend designed to support healing, recovery, and overall wellness",
-    image: "/nexogenlabz/images/klow-1222.png",
+    image: "/images/klow-1222.png",
     detailedInfo: {
       benefits: [
         "Supports faster tissue repair",
@@ -40,7 +40,7 @@ const products: Product[] = [
     id: 2,
     name: "GLP-1",
     description: "GLP-1 support for appetite control and metabolic balance",
-    image: "/nexogenlabz/images/glp-12222.png",
+    image: "/images/glp-12222.png",
     detailedInfo: {
       benefits: [
         "Helps reduce appetite",
@@ -57,7 +57,7 @@ const products: Product[] = [
     id: 3,
     name: "TESTOSTERONE",
     description: "Essential hormone support for strength, vitality, and performance",
-    image: "/nexogenlabz/images/test-12222.png",
+    image: "/images/test-12222.png",
     detailedInfo: {
       benefits: [
         "Boosts muscle growth and strength",

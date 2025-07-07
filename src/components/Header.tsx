@@ -29,7 +29,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center">
             <img 
-              src="/nexogenlabz/images/opdhe9a4f3bf1-no-bg.png" 
+              src="/images/opdhe9a4f3bf1-no-bg.png" 
               alt="NexogenLabz" 
               className="h-12 w-auto object-contain hover:scale-105 transition-transform duration-300"
             />

@@ -59,7 +59,7 @@ const Hero = () => {
           <div className="relative">
             <div className="relative z-10">
               <img
-                src="/nexogenlabz/images/klow-122.png"
+                src="/images/klow-122.png"
                 alt="KLOW Peptide"
                 className="w-full max-w-md mx-auto"
               />
